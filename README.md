@@ -7,4 +7,4 @@
 ## Digital Storytelling - United States Teachers' Movement 
 <a href="https://github.com/brandon-daniels/Digital-Storytelling-GIS-Teachers">View the repostiory here.</a>
 ## Data Visualization - Hate Map 
-<a href="https://github.com/brandon-daniels/Data-Viz-Hate-Map" View the repostiory here.</a>
+<a href="https://github.com/brandon-daniels/Data-Viz-Hate-Map"> View the repostiory here.</a>
