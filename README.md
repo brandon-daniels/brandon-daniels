@@ -1,4 +1,4 @@
-👋 Hi, I’m Brandon M. Daniels, a PhD Candidate at the University of Colorado Boulder - Department of Communication
+👋 Hi, I’m Brandon M. Daniels, a PhD Candidate in Communication at the University of Colorado Boulder
 
 👀 I’m interested in cultural analytics, natural language processing, and the digital humanities.
 
