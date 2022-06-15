@@ -1,4 +1,4 @@
-👋 Hi, I’m Brandon M. Daniels, a PhD Candidate in Communication at the University of Colorado Boulder. I have a background in the academic humanities, but I tinker, hack, and investigate with computers. I'm most experienced at using python to explore textual datasets.
+👋 Hi, I’m Brandon M. Daniels, a PhD Candidate in Communication at the University of Colorado Boulder. I have a background in the academic humanities, but I tinker, hack, and investigate with computers. I use computational methods to investigate human language use, interpret trends and patterns, and communicate findings in a clear and effective manner. I'm proficient in python and established practices of statistical inferencing and data vizualization. I use natural language processing techniques to understand textual datasets ranging from small and curated corpora to unstructured social media data.
 
 👀 I’m interested in cultural analytics, natural language processing, and the digital humanities.
 
