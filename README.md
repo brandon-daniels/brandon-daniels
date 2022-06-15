@@ -2,7 +2,7 @@
 
 👀 I’m interested in cultural analytics, natural language processing, and the digital humanities.
 
-🌱 I’m currently learning python, R, TensorFlow. 
+🌱 I’m currently learning R, TensorFlow, Keras. 
 
  📫 How to reach me: brandon.daniels@colorado.edu
 
