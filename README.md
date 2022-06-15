@@ -13,5 +13,6 @@
 <a href="https://github.com/brandon-daniels/Digital-Storytelling-GIS-Teachers">View the repostiory here.</a>
 ## Digital Humanities - Digital El Diario
 http://digitaleldiario.com/poetics-of-chicanx-student-activists/
+
 This essay was developed out of a collaborative digital humanities project that created a plain-text-corpus of the Chicano student newspaper _El Diario De La Gente_. In this essay, my co-author and I use the corpus to test our ability to measure the linguistic similarity between an influential poem and the collection of creative student writing.
 
