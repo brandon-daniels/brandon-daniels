@@ -9,12 +9,12 @@
 :writing_hand: Interested in my writing? View my publication page on [Google Scholar](https://scholar.google.com/citations?user=EYn0gZEAAAAJ&hl=en&oi=ao)
 
 # Check out some of my projects:
-## Data Visualization - Hate Map 
-<a href="https://github.com/brandon-daniels/Data-Viz-Hate-Map"> View the repostiory here.</a>
-## Digital Storytelling - United States Teachers' Movement 
-<a href="https://github.com/brandon-daniels/Digital-Storytelling-GIS-Teachers">View the repostiory here.</a>
 ## Digital Humanities - Digital El Diario
 http://digitaleldiario.com/poetics-of-chicanx-student-activists/
 
 This essay was developed out of a collaborative digital humanities project that created a plain-text-corpus of the Chicano student newspaper _El Diario De La Gente_. In this essay, my co-author and I use the corpus to test our ability to measure the linguistic similarity between an influential poem and the collection of creative student writing.
+## Data Visualization - Hate Map 
+<a href="https://github.com/brandon-daniels/Data-Viz-Hate-Map"> View the repostiory here.</a>
+## Digital Storytelling - United States Teachers' Movement 
+<a href="https://github.com/brandon-daniels/Digital-Storytelling-GIS-Teachers">View the repostiory here.</a>
 
