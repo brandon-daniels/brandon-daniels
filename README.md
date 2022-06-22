@@ -4,7 +4,9 @@
 
 🌱 I’m currently learning R, TensorFlow, Keras. 
 
- 📫 How to reach me: brandon.daniels@colorado.edu
+📫 How to reach me: brandon.daniels@colorado.edu
+ 
+:writing_hand: Interested in my writing? View my publication page on [Google Scholar]([url](https://scholar.google.com/citations?user=EYn0gZEAAAAJ&hl=en&oi=ao))
 
 # Check out some of my projects:
 ## Data Visualization - Hate Map 
