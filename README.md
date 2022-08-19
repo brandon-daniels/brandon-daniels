@@ -19,4 +19,4 @@ This project was a custom web-based data visualization for a faculty member's da
 ## Digital Storytelling - United States Teachers' Movement 
 <a href="https://github.com/brandon-daniels/Digital-Storytelling-GIS-Teachers">View the repostiory here.</a>
 
-This essay is an example of digital storytelling focused on a social movement in the United States that took place in 2018. It considers the scale of protests as a way of understanding theoretical concepts about the relationship between technology and society. 
+This essay is an example of digital storytelling focused on a 2018 movement in the United States. It considers the scale of protests as a way of understanding theoretical concepts about the relationship between technology and society. 
