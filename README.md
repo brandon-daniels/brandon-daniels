@@ -14,7 +14,7 @@ This essay was developed out of a collaborative digital humanities project that 
 ## Data Visualization - Hate Map 
 <a href="https://github.com/brandon-daniels/Data-Viz-Hate-Map"> View the repostiory here.</a>
 
-This project was a custom web-based data visualization for a faculty member's dataset of reported acts of hateful vandalism. The visualization uses Javascript and the D3 library to interact with the data. 
+This project was a custom web-based data visualization for a faculty member's dataset of reported acts of hateful vandalism. The visualization uses Javascript and the D3 library to allow users to interact with the data. 
 
 ## Digital Storytelling - United States Teachers' Movement 
 <a href="https://github.com/brandon-daniels/Digital-Storytelling-GIS-Teachers">View the repostiory here.</a>
