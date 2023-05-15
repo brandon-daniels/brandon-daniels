@@ -7,6 +7,11 @@
 :writing_hand: Interested in my writing? View my publication page on [Google Scholar](https://scholar.google.com/citations?user=EYn0gZEAAAAJ&hl=en&oi=ao)
 
 # Check out some of my projects:
+## PhD Dissertation - The Mediality of Teacher Strikes
+https://github.com/brandon-daniels/Mediality-of-Teacher-Strikes/
+
+My dissertation examines a wave of teacher strikes from 2018-2019. While it relies on multiple methods of qualitative and quantitative inquiry, the fourth chapter in my dissertation uses computational tools of natural language processing to analyze characteristics of a dataset of tweets about the strikes. I use the methods of topic modelling and geoparsing to explore the temporality and spatiality of discourse about the strikes. These methods reveal how the platform of Twitter shapes the discourse of its users, and how the events of the strikes impacted the language choices made by participants in the hashtag conversation.
+
 ## Digital Humanities - Digital El Diario
 http://digitaleldiario.com/poetics-of-chicanx-student-activists/
 
