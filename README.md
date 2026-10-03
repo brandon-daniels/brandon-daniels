@@ -16,10 +16,6 @@ My dissertation examines a wave of teacher strikes from 2018-2019. While it reli
 http://digitaleldiario.com/poetics-of-chicanx-student-activists/
 
 This essay was developed out of a collaborative digital humanities project that created a plain-text-corpus of the Chicano student newspaper _El Diario De La Gente_. In this essay, my co-author and I use the corpus to test our ability to measure the linguistic similarity between an influential poem and the collection of creative student writing. We use techniques such as Tf-idf, PCA, and POS tagging to understand the dataset. 
-## Data Visualization - Hate Map 
-<a href="https://github.com/brandon-daniels/Data-Viz-Hate-Map"> View the repostiory here.</a>
-
-This project was a custom web-based data visualization for a faculty member's dataset of reported acts of hateful vandalism. The visualization uses Javascript and the D3 library to allow users to interact with the data. 
 
 ## Digital Storytelling - United States Teachers' Movement 
 <a href="https://github.com/brandon-daniels/Digital-Storytelling-GIS-Teachers">View the repostiory here.</a>
